@@ -784,7 +784,7 @@ Possible future improvements include:
 
 **GitHub:** https://github.com/ramcodes123-debug
 
-Project Repository: https://github.com/ramcodes123-debug/Cars.git
+**Project Repository:** https://github.com/ramcodes123-debug/Cars.git
 
 ---
 
